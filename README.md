@@ -7,7 +7,7 @@ Trata-se um modulo que permite a um controlador SDN, gerenciar de forma dinâcia
 Os  experimentos seguiram uma abordagem de emulação que reproduziram uma rede OpenFlow atraves do Mininet. Para isso, foram utilizados:
 
       1. PC Core i5, 2.9Ghz, 8GBdeRAM
-      2. Sistema Operacional Ubuntu Server 15.04,x64, versão do kerne l3.19.0-30
+      2. Sistema Operacional Ubuntu Server 15.04,x64, versão do kernel 3.19.0-30
       3. Mininet, versão 1.8r11
       4. Protocolo OpenFlow, versão 1.0
       5. Controlador OpenFlow POX, versão 0.2.0
