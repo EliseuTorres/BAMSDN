@@ -4,7 +4,7 @@
 
 Trata-se um modulo que permite a um controlador SDN, gerenciar de forma dinâcia a largura de banda das portas de saida dos switches OpenFlow através de filas de classes de tráfego. 
 
-Os  experimentos seguiram uma abordagem de emulação que reproduziram uma rede OpenFlow atraves do Mininet. Para isso, foram utilizados:
+Os  experimentos seguiram uma abordagem de emulação que reproduziram uma rede OpenFlow atraves do Mininet. Para isso, foi utilizado:
 
       1. PC Core i5, 2.9Ghz, 8GBdeRAM
       2. Sistema Operacional Ubuntu Server 15.04,x64, versão do kernel 3.19.0-30
