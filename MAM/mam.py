@@ -1,4 +1,4 @@
-# Copyright 2014 Eliseu Silva Torres
+# Copyright 2018 Eliseu Silva Torres
 #
 # This file is part of BAMSDN.
 #
