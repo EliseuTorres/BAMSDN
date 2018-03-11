@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./pox.py MAM.mam
+./pox.py MAM.controller
