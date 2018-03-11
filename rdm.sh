@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./pox.py RDM.rdm
+./pox.py RDM.controller
