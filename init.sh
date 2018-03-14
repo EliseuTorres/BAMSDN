@@ -9,5 +9,5 @@ mv -r RDM/ ~/pox/ext/
 mkdir ~/topologia
 
 mv -r scripts/ ~/topologia/
-mv lab.py ~/topologia/
+mv topo.py ~/topologia/
 
