@@ -54,7 +54,7 @@ Por meio de um terminal execute os scripts mam.sh ou rdm.sh para executar um dos
 
 Em outro terminal execute lab.py dentro do diretorio topologia
 
-      $sudo python lab.py
+      $sudo python topo.py
 
 No CLI do Mininet digite
 
