@@ -25,7 +25,7 @@ A figura 1 apresenta a topologia proposta para este trabalho:
 
 
 <img src="https://github.com/EliseuTorres/BAMSDN/blob/master/Imagens/Topologia.png">
-                                   figura 1
+                                figura 1
 
 ============================================================================
 
