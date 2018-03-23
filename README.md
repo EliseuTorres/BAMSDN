@@ -24,6 +24,8 @@ Qualquer ambiente Linux com Mininet, OpenVswitch, OpenFlow e controlador POX dev
 A topologia proposta para este trabalho foi:
 
 https://github.com/EliseuTorres/BAMSDN/blob/master/Topologia.png
+<img src="https://raw.githubusercontent.com/EliseuTorres/BAMSDN/Imagens/Topologia.png">
+
 
 ============================================================================
 
