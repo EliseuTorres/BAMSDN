@@ -21,13 +21,12 @@ Os  experimentos seguiram uma abordagem de emulação que reproduziram uma rede 
 Qualquer ambiente Linux com Mininet, OpenVswitch, OpenFlow e controlador POX deve rodar esse experimento sem problemas.
 
 
-A figura 1 apresenta a topologia proposta para este trabalho:
+A figura abaixo apresenta a topologia proposta para este trabalho:
 
 
 <img src="https://github.com/EliseuTorres/BAMSDN/blob/master/Imagens/Topologia.png">
 
-                                     figura 1
-                               
+                                                     
 
 ============================================================================
 
