@@ -21,7 +21,7 @@ Os  experimentos seguiram uma abordagem de emulação que reproduziram uma rede 
 Qualquer ambiente Linux com Mininet, OpenVswitch, OpenFlow e controlador POX deve rodar esse experimento sem problemas.
 
 
-A figura abaixo apresenta a topologia proposta para este trabalho:
+A figura abaixo apresenta a topologia proposta para a ferramenta:
 
 
 <img src="https://github.com/EliseuTorres/BAMSDN/blob/master/Imagens/Topologia.png">
@@ -30,24 +30,26 @@ A figura abaixo apresenta a topologia proposta para este trabalho:
 
 ============================================================================
 
-Para a utilização do ambiente siga os seguintes passos abaixo.
+Siga as instruções abaixo aquisição da ferramenta e execução dos experimentos.
 
 Baixar o código fonte do projeto:
 
      git clone https://github.com/EliseuTorres/BAMSDN.git
 
-como root execute o script init.sh
+Executar o script init.sh
 
      $sudo ./init.sh
 
-A ação terár as seguintes conseguências:
+A ação  as seguintes conseguências:
 
-     1.Mover os scritps mam.sh e rdm.sh para o diretorio /pox
+     1.Mover os scritps mam.sh e rdm.sh para o diretório /pox
      2.Mover as pastas MAM e RDM para o diretório pox/ext
-     3.Criar o diretorio topoligia na pasta home
+     3.Criar o diretório topoligia/ na pasta home do usuário
      4.Mover lab.py e scripts para a pasta topologia 
 
-Por meio de um terminal execute os scripts mam.sh ou rdm.sh para executar um dos controladores:
+Abrir dois consoles de CLI (Terminal de linha de comando) e acessar a maquina virutal utilizando SSH
+
+No primeiro terminal acessar o diretório pox/ e executar o controlador através dos scripts "mam.sh ou rdm.sh":
 
       $sudo ./mam.sh
 
@@ -55,7 +57,7 @@ Por meio de um terminal execute os scripts mam.sh ou rdm.sh para executar um dos
 
       $sudo ./rdm.sh
 
-Em outro terminal execute lab.py dentro do diretorio topologia
+No segundo terminal acessar o diretório topologia/ e executar top.py
 
       $sudo python topo.py
 
