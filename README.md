@@ -61,7 +61,7 @@ No segundo terminal acessar o diretório topologia/ e executar top.py
 
       $sudo python topo.py
 
-No CLI do Mininet digite
+No CLI do Mininet digitar
 
      <mininet> xterm h1 h2 h3 h6
 
