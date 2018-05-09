@@ -3,11 +3,11 @@
 mv mam.sh ~/pox/
 mv rdm.sh ~/pox/
 
-mv -r MAM/ ~/pox/ext/
-mv -r RDM/ ~/pox/ext/
+mv MAM/ ~/pox/ext/
+mv RDM/ ~/pox/ext/
 
 mkdir ~/topologia
 
-mv -r scripts/ ~/topologia/
+mv scripts/ ~/topologia/
 mv topo.py ~/topologia/
 
