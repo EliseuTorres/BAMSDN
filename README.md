@@ -1,7 +1,7 @@
  BAMSDN 
 ========
 
-Trata-se um modulo que permite a um controlador SDN, gerenciar de forma dinâmica a alocação de LSPs (Label Switched Paths - MPLS) e suas respectivas largura de banda nas portas de saida de switches OpenFlow. 
+Trata-se um modulo que permite a um controlador SDN, gerenciar de forma dinâmica a alocação de LSPs (Label Switched Paths - MPLS) e suas respectivas larguras de banda nas portas de saida de switches OpenFlow. 
 
 O BAMSDN utiliza o limite de banda disponível (BC) das portas de saida dos switches OpenFlow por classes de tráfego (CTs). A alocação de LSPs e suas respectivas capacidades (banda alocada) é feita através de um modelo de alocação de banda (BAM) como árbitro da alocação e visa o compartilhamento e uso eficiente de recursos [1]. 
 
